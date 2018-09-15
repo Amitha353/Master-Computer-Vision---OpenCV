@@ -15,4 +15,21 @@ OpenCV - 12 Computer Vision Mini-Projects - Udemy
 8. Object class variation. (Class bed -> could have various forms -> sofa, chait to a queen-size bed);
 9. Ambiguous images / Optical illusions -> Vase / 2 faces;
 
+### OpenCV in Python
+1. Python is one the easiest languages to learn.
+2. Powerful for data science and machine learning applications.
+3. Stores images in numpy arrays which allows to perform powerful operations easily.
 
+## Mini-Projects
+1. Making a Live Drawing Sketch of yourself.
+2. Shape Matching.
+3. Counting circle and ellipses.
+4. Finding Waldo.
+5. Object Identification.
+6. Face, Pedestrian and Card detection.
+7. Live Face Swaps.
+8. Face Reader.
+9. Handwritten Digit Recognition.
+10. Facial Recognition.
+11. Ball Tracking.
+12. Photo Restoration.
